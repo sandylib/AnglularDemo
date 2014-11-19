@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html ng-app="TodoApp" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="Scripts/jquery-1.10.2.js"></script>   
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+
+    <script src="Scripts/bootstrap.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+
+    <script src="Scripts/App/app.js"></script>
+
+    <!--[if lte IE 8]>
+       <script>
+         document.createElement('ng-include');
+         document.createElement('ng-pluralize');
+         document.createElement('ng-view');
+
+         // Optionally these for CSS
+         document.createElement('ng:include');
+         document.createElement('ng:pluralize');
+         document.createElement('ng:view');
+       </script>
+     <![endif]-->
+
+  
+    <title>Todo List - Angular - asp.net MVC</title>
+</head>
+<body>
+    <div class="container">
+        <div ng-view></div>
+    </div>
+</body>
+</html>

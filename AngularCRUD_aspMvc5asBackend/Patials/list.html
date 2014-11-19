@@ -1,0 +1,67 @@
+﻿
+<greet from="Sandy" to="users"></greet>
+
+what is the result {{88/2}}
+
+
+
+<form>
+    <div class="row">
+        <div class="col-xs-6">
+            <div class="input-group">
+                <input type="text" ng-model="query" class="form-control" placeholder="Search">
+                <span class="input-group-btn">
+                    <button ng-click="search()" type="submit" class="btn btn-default">Go</button>
+                </span>
+            </div>
+        </div>
+        <div class="col-xs-6">
+            <button type="submit" ng-click="query=''; reset()" ng-disabled="!query" class="btn btn-danger">Clear</button>
+        </div>
+    </div>
+
+    <div class="row">
+        
+    </div>
+
+</form>
+
+
+
+<table class="table table-striped table-condensed table-hover">
+    <thead>
+    <th>
+      <a ng-click="sortField='Text'; reverse=!reverse">Todo</a> 
+        <span ng-show="reverse==true && sortField=='Text'" ><i class="glyphicon glyphicon-arrow-down"></i></span>
+        <span ng-show="reverse==false && sortField=='Text'" ><i class="glyphicon glyphicon-arrow-up"></i></span>       
+    </th>
+    <th>
+        <a ng-click="sortField='Priority'; reverse=!reverse">Priority</a>     
+        <span ng-show="reverse==true && sortField=='Priority'" ><i class="glyphicon glyphicon-arrow-down"></i></span>
+        <span ng-show="reverse==false && sortField=='Priority'"><i class="glyphicon glyphicon-arrow-up"></i></span>       
+    </th>
+    <th>
+        <a ng-click="sortField='DueDate'; reverse=!reverse">DueDate</a>   
+        <span ng-show="reverse==true && sortField=='DueDate'" ><i class ="glyphicon glyphicon-arrow-down"></i></span>
+        <span ng-show="reverse==false && sortField=='DueDate'" ><i class="glyphicon glyphicon-arrow-up"></i></span>       
+    </th>
+    <th><a href="#/new"><i class="glyphicon glyphicon-plus-sign"></i></a></th>
+  
+    </thead>
+    <tbody>
+        <tr ng-repeat="item in items | filter:query | orderBy:sortField:reverse" id="todo_{{item.Id}}">
+            <td>{{item.Text}}</td>
+            <td>{{item.Priority}}</td>
+            <td>{{item.DueDate  | date : format : timezone}}</td>
+            <td>
+                <a href="#/edit/{{item.Id}}"><i class="glyphicon glyphicon-edit"></i> </a>
+                <a ng-click="delete()"><i class="glyphicon glyphicon-remove"></i> </a>
+                         
+            </td>
+           
+        </tr>
+
+    </tbody>
+</table>
+
+<a ng-show="has_more()" ng-click="show_more()">Show more</a>
