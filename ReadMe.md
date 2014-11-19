@@ -2,12 +2,7 @@ AngularJS:
     Create, update, delete a todo
     Sort (and show sort order)
     Search
-    Pagination
-
-We¡¯ll try to make it somewhat user friendly, e.g.
-
-    Date-picker widget for todo due date
-    Enable/disable buttons as appropriate for context
+    Pagination  
 
 Our infrastructure will be:
     Backend Language: C#
