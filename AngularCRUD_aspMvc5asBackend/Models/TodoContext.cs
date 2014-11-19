@@ -17,7 +17,15 @@ namespace AngularCRUD_aspMvc5asBackend.Models
     
         public TodoContext() : base("name=TodoContext")
         {
+
         }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            Database.SetInitializer(
+                new MigrateDatabaseToLatestVersion<TodoContext, Migrations.Configuration>());
+        }
+        
 
         public System.Data.Entity.DbSet<AngularCRUD_aspMvc5asBackend.Models.Todo> Todoes { get; set; }
     

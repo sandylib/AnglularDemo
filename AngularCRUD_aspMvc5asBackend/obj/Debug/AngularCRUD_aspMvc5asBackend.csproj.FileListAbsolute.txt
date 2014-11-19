@@ -36,3 +36,41 @@ C:\Users\sandy\Documents\Visual Studio 2013\Projects\AngularCRUD_aspMvc5asBacken
 C:\Users\sandy\Documents\Visual Studio 2013\Projects\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\EntityFramework.SqlServer.xml
 C:\Users\sandy\Documents\Visual Studio 2013\Projects\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\obj\Debug\AngularCRUD_aspMvc5asBackend.Migrations.sandy.resources
 C:\Users\sandy\Documents\Visual Studio 2013\Projects\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\obj\Debug\AngularCRUD_aspMvc5asBackend.csproj.GenerateResource.Cache
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\AngularCRUD_aspMvc5asBackend.dll.config
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\AngularCRUD_aspMvc5asBackend.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\AngularCRUD_aspMvc5asBackend.pdb
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\Antlr3.Runtime.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\EntityFramework.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\EntityFramework.SqlServer.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\Microsoft.Web.Infrastructure.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\Newtonsoft.Json.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Net.Http.Formatting.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Helpers.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Http.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Http.WebHost.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Mvc.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Optimization.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Razor.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.WebPages.Deployment.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.WebPages.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.WebPages.Razor.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\WebGrease.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\EntityFramework.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\EntityFramework.SqlServer.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\Newtonsoft.Json.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Net.Http.Formatting.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Helpers.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Http.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Http.WebHost.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Mvc.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Optimization.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.Razor.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.WebPages.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.WebPages.Deployment.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\System.Web.WebPages.Razor.xml
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\bin\Antlr3.Runtime.pdb
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\obj\Debug\AngularCRUD_aspMvc5asBackend.csprojResolveAssemblyReference.cache
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\obj\Debug\AngularCRUD_aspMvc5asBackend.Migrations.sandy.resources
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\obj\Debug\AngularCRUD_aspMvc5asBackend.csproj.GenerateResource.Cache
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\obj\Debug\AngularCRUD_aspMvc5asBackend.dll
+C:\GitDirection\AngularCRUD_aspMvc5asBackend\AngularCRUD_aspMvc5asBackend\obj\Debug\AngularCRUD_aspMvc5asBackend.pdb
