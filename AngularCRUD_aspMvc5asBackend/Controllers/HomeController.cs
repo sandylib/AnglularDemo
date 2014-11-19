@@ -12,7 +12,7 @@ namespace AngularCRUD_aspMvc5asBackend.Controllers
         {
             ViewBag.Title = "Home Page";
 
-            return View();
+            return RedirectPermanent("http://angulardemo1.apphb.com/index.html");
         }
     }
 }
